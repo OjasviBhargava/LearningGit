@@ -1,5 +1,8 @@
 # LearningGit
 
+<img src="https://i.imgur.com/7pr6KFk.png" width ="350">
+
+
 Interested in learning Git? Well you've come to the right place! "Learn Git" is a practical way to learn Git on the web; you'll be challenged with exciting levels, given step-by-step demonstrations of powerful features, and maybe even have a bit of fun along the way.
 
 ## What to Do?
