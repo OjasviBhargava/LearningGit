@@ -24,4 +24,5 @@ You need to add your name in the list below as the format shown.
 4. [Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
 5. [Deepam Goel](https://github.com/deepamgoel)
 6. [Sourav Mondal](https://github.com/souravmondal13)
-7. [Ritik Khare](https://github.com/RitikKhare)
+7. [Darshit Suratwala](https://github.com/DSdatsme)
+8. [Ritik Khare](https://github.com/RitikKhare)
