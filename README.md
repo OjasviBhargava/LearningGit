@@ -5,10 +5,14 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 ## What to Do?
 1. First of all Star this repo so that you can keep a track of the changes and follow up.
 2. Next step is to Click on `Fork`, which will create your copy of this repository.
-3. Now make changes to the Readme file in your forked repository.
+3. Now make changes to the <b> README.md </b> in your forked repository.
 4. Once done make the commit with message `My Fork Commit` or anything you wish.
 5. Click on the `Pull Request` button that will be visible after you commit. On the next page add your commit message and Hit `Send Pull Request`.
 
-Important Git Commands :
+## What changes to make in README.md
+You need to add your name in the list below as the format shown.
+
+Successfull PR by :
+1. 
 
 
