@@ -10,7 +10,7 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 2. Next step is to Click on `Fork`, which will create your copy of this repository.
 3. Now make changes to the <b> README.md </b> in your forked repository.
 4. Once done make the commit with message `My Fork Commit` or anything you wish.
-5. Click on the `Pull Request` tab that will be visible after you commit. On the next page click on `Create Pull Request`.
+5. Click on the `Pull Request` tab that will be visible after you commit. On the next page click on `Create Pull Request`
 
 ## What changes to make in README.md
 You need to add your name in the list below as the format shown.
@@ -19,5 +19,7 @@ You need to add your name in the list below as the format shown.
 ## Successfull PR by :
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit) 
+
+2. [Suhanshu Patel](https://github.com/Suhanshu123) 
 
 
