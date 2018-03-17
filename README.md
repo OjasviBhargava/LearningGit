@@ -16,7 +16,7 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 You need to add your name in the list below as the format shown.
 1. [Your Name](Your Github ID)
 
-## Successfull PR by :
+## Successful PR by :
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit) 
 2. [Tirth Patel](https://github.com/piedcipher)
