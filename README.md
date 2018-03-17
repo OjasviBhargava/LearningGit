@@ -16,7 +16,7 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 You need to add your name in the list below as the format shown.
 1. [Your Name](Your Github ID)
 
-## Successfull PR by :
+## Successful PR by :
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit) 
 2. [Tirth Patel](https://github.com/piedcipher)
@@ -25,4 +25,7 @@ You need to add your name in the list below as the format shown.
 5. [Deepam Goel](https://github.com/deepamgoel)
 6. [Sourav Mondal](https://github.com/souravmondal13)
 7. [Darshit Suratwala](https://github.com/DSdatsme)
-8. [Shivanshu Srivastava](https://github.com/FLYINGKRIPTO)
+8. [Ritik Khare](https://github.com/RitikKhare)
+9. [Ikram Mohammad](https://github.com/Ikramkhan786)
+10. [Aakarsh Baiju] (https://github.com/LegacyCoder)
+11. [Shivanshu Srivastava](https://github.com/FLYINGKRIPTO)
