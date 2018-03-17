@@ -20,7 +20,6 @@ You need to add your name in the list below as the format shown.
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit) 
 2. [Tirth Patel](https://github.com/piedcipher)
-2. [Suhanshu Patel](https://github.com/Suhanshu123)
-4. [Deepam Goel](https://github.com/deepamgoel)
-
-
+3. [Suhanshu Patel](https://github.com/Suhanshu123)
+4. [Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
+5. [Deepam Goel](https://github.com/deepamgoel)
