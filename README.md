@@ -14,6 +14,6 @@ You need to add your name in the list below as the format shown.
 
 ## Successfull PR by :
 
-1. [Your Name](github profile link) 
+1. [Kartik Shandilya](https://github.com/kkdroidgit) 
 
 
