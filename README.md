@@ -1,6 +1,6 @@
 
 
-https://github.com/pavankuppa115.# Learning Git
+# Learning Git
 
 <img src="https://i.imgur.com/7pr6KFk.png" width ="350">
 
