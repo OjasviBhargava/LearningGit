@@ -1,5 +1,3 @@
-
-
 # Learning Git
 
 <img src="https://i.imgur.com/7pr6KFk.png" width ="350">
@@ -36,4 +34,4 @@ You need to add your name in the list below as the format shown.
 14. [Niraj Tiwary](https://github.com/tiwaryniraj)
 15. [Pavan Kuppa](https://github.com/pavankuppa1)
 16. [Masum Ahmed](https://github.com/Jnerdva)
-
+17. [Divya Thakur](https://github.com/DivyaThakur24)
