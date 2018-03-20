@@ -1,5 +1,3 @@
-
-
 # Learning Git
 
 <img src="https://i.imgur.com/7pr6KFk.png" width ="350">
@@ -38,4 +36,11 @@ You need to add your name in the list below as the format shown.
 16. [Masum Ahmed](https://github.com/Jnerdva)
 17. [Sahil Soni](https://github.com/SscSPs)
 18. [Bobby Sandhu](https://github.com/BobbySandhu)
-19:[Rinki Nag](https://github.com/eaglewarrior)
+19. [Ratnesh Gupta](https://github.com/ratneshvsyou)
+20. [Mahima](https://github.com/amy6)
+21. [Manthan Shah](https://github.com/mantyshah)
+22. [Divya Thakur](https://github.com/DivyaThakur24)
+23. [Navin Nayak](https://github.com/NayakNavin)
+24. [Kumar Mayank Verma](https://github.com/ank1122)
+25. [Vineet Prasad Verma](https://github.com/VineetPrasadVerma)
+26. [Rinki Nag](https://github.com/eaglewarrior)
