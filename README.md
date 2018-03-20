@@ -44,3 +44,4 @@ You need to add your name in the list below as the format shown.
 24. [Kumar Mayank Verma](https://github.com/ank1122)
 25. [Vineet Prasad Verma](https://github.com/VineetPrasadVerma)
 26. [Rinki Nag](https://github.com/eaglewarrior)
+27. [Praful Nayak](https://github.com/prafulnayak)
