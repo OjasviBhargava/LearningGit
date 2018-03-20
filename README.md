@@ -45,3 +45,4 @@ You need to add your name in the list below as the format shown.
 25. [Vineet Prasad Verma](https://github.com/VineetPrasadVerma)
 26. [Rinki Nag](https://github.com/eaglewarrior)
 27. [Rishabh Agrawal](https://github.com/CaffeinatedCod3r)
+28. [Vinay Gupta](https://github.com/vinay089)
