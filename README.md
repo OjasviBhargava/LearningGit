@@ -40,3 +40,4 @@ You need to add your name in the list below as the format shown.
 20. [Mahima](https://github.com/amy6)
 21. [Manthan Shah](https://github.com/mantyshah)
 22. [Divya Thakur](https://github.com/DivyaThakur24)
+23. [Navin Nayak](https://github.com/NayakNavin)
