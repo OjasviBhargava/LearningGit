@@ -47,4 +47,4 @@ You need to add your name in the list below as the format shown.
 26. [Rinki Nag](https://github.com/eaglewarrior)
 27. [Rishabh Agrawal](https://github.com/CaffeinatedCod3r)
 28. [Vinay Gupta](https://github.com/vinay089)
-29.[Joydeep Halder](https://github.com/Joydeephalder)
+29. [Joydeep Halder](https://github.com/Joydeephalder)
