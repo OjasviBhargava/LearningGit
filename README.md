@@ -18,11 +18,5 @@ You need to add your name in the list below as the format shown.
 
 ## Successfull PR by :
 
-1. [Kartik Shandilya](https://github.com/kkdroidgit) 
-2. [Tirth Patel](https://github.com/piedcipher)
-3. [Suhanshu Patel](https://github.com/Suhanshu123)
-4. [Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
-5. [Deepam Goel](https://github.com/deepamgoel)
-6. [Sourav Mondal](https://github.com/souravmondal13)
-7. [Darshit Suratwala](https://github.com/DSdatsme)
+
 8.[GurpreetGrewal](https://github.com/grewal0007)
