@@ -1,3 +1,4 @@
+
 # Learning Git
 
 <img src="https://i.imgur.com/7pr6KFk.png" width ="350">
@@ -14,9 +15,10 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 
 ## What changes to make in README.md
 You need to add your name in the list below as the format shown.
-1. [Your Name](Your Github ID)
+1. [GurpreetGrewal](https://github.com/grewal0007)
 
 ## Successful PR by :
+
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit) 
 2. [Tirth Patel](https://github.com/piedcipher)
@@ -46,4 +48,6 @@ You need to add your name in the list below as the format shown.
 26. [Rinki Nag](https://github.com/eaglewarrior)
 27. [Rishabh Agrawal](https://github.com/CaffeinatedCod3r)
 28. [Vinay Gupta](https://github.com/vinay089)
-29. [Shivangi Gupta](https://github.com/shivangi354)
+29. [Joydeep Halder](https://github.com/Joydeephalder)
+30. [GurpreetGrewal](https://github.com/grewal0007)
+31. [Shivangi Gupta](https://github.com/shivangi354)
