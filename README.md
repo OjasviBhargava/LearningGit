@@ -59,3 +59,5 @@ You need to add your name in the list below as the format shown.
 37. [Sankalp Chauhan](https://github.com/sankalpchauhan-me)
 38. [Mahadheer Gujju](https://github.com/mahadheer)
 39. [Meghana B Srinath](https://github.com/Meghana359)
+40. [Kshitiz Sharma](https://github.com/itskshitizsh)
+
