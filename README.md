@@ -1,5 +1,4 @@
 
-
 # Learning Git
 
 <img src="https://i.imgur.com/7pr6KFk.png" width ="350">
@@ -16,9 +15,10 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 
 ## What changes to make in README.md
 You need to add your name in the list below as the format shown.
-1. [Your Name](Your Github ID)
+1. [your name](your github profile link)
 
 ## Successful PR by :
+
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit) 
 2. [Tirth Patel](https://github.com/piedcipher)
@@ -34,8 +34,33 @@ You need to add your name in the list below as the format shown.
 12. [Mounica Thota](https://github.com/Thotamounika)
 13. [Sabdar Shaik](https://github.com/sabdar18)
 14. [Niraj Tiwary](https://github.com/tiwaryniraj)
-15.[Pavan Kuppa](https://github.com/pavankuppa1)
-16. [Kshitij Suri](https://github.com/kshitijsuri90)
-
-
-
+15. [Pavan Kuppa](https://github.com/pavankuppa1)
+16. [Masum Ahmed](https://github.com/Jnerdva)
+17. [Sahil Soni](https://github.com/SscSPs)
+18. [Bobby Sandhu](https://github.com/BobbySandhu)
+19. [Ratnesh Gupta](https://github.com/ratneshvsyou)
+20. [Mahima](https://github.com/amy6)
+21. [Manthan Shah](https://github.com/mantyshah)
+22. [Divya Thakur](https://github.com/DivyaThakur24)
+23. [Navin Nayak](https://github.com/NayakNavin)
+24. [Kumar Mayank Verma](https://github.com/ank1122)
+25. [Vineet Prasad Verma](https://github.com/VineetPrasadVerma)
+26. [Rinki Nag](https://github.com/eaglewarrior)
+27. [Rishabh Agrawal](https://github.com/CaffeinatedCod3r)
+28. [Vinay Gupta](https://github.com/vinay089)
+29. [Joydeep Halder](https://github.com/Joydeephalder)
+30. [GurpreetGrewal](https://github.com/grewal0007)
+31. [Shivangi Gupta](https://github.com/shivangi354)
+32. [Thirumalai Devi Ramya](https://github.com/thirulak)
+33. [Nitish Kumar Jha](https://github.com/njha6185)
+34. [Asit Behera](https://github.com/Crazzi-Boii)
+35. [Vipul Aggarwal](https://github.com/vipuldcoder)
+36. [Ravi_S](https://github.com/ravishankar97)
+37. [Sankalp Chauhan](https://github.com/sankalpchauhan-me)
+38. [Mahadheer Gujju](https://github.com/mahadheer)
+39. [Meghana B Srinath](https://github.com/Meghana359)
+40. [Kshitiz Sharma](https://github.com/itskshitizsh)
+41. [Rhythm Gilhotra](https://github.com/RhythmGilhotra)
+42. [Sumit Roy](https://github.com/sroy8091)
+43. [Gaurav Atul](https://github.com/gtl23)
+44. [Kshitij Suri](https://github.com/kshitijsuri90)
