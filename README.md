@@ -76,3 +76,4 @@ You need to add your name in the list below as the format shown.
 54. [Deepanshu Prajapati](https://github.com/dipanshurazp2)
 55. [Praful Nayak](https://github.com/prafulnayak)
 56. [Sanjeev Sharma](https://github.com/thedevelopersanjeev)
+57. [Madhav Bangaru](https://github.com/MadhavBangaru)
