@@ -1,3 +1,4 @@
+
 # Learning Git
 
 <img src="https://i.imgur.com/7pr6KFk.png" width ="350">
@@ -14,9 +15,10 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 
 ## What changes to make in README.md
 You need to add your name in the list below as the format shown.
-1. [Your Name](Your Github ID)
+1. [your name] ( your github profile link )
 
 ## Successful PR by :
+
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit) 
 2. [Tirth Patel](https://github.com/piedcipher)
@@ -44,4 +46,32 @@ You need to add your name in the list below as the format shown.
 24. [Kumar Mayank Verma](https://github.com/ank1122)
 25. [Vineet Prasad Verma](https://github.com/VineetPrasadVerma)
 26. [Rinki Nag](https://github.com/eaglewarrior)
-27. [Praful Nayak](https://github.com/prafulnayak)
+27. [Rishabh Agrawal](https://github.com/CaffeinatedCod3r)
+28. [Vinay Gupta](https://github.com/vinay089)
+29. [Joydeep Halder](https://github.com/Joydeephalder)
+30. [GurpreetGrewal](https://github.com/grewal0007)
+31. [Shivangi Gupta](https://github.com/shivangi354)
+32. [Thirumalai Devi Ramya](https://github.com/thirulak)
+33. [Nitish Kumar Jha](https://github.com/njha6185)
+34. [Asit Behera](https://github.com/Crazzi-Boii)
+35. [Vipul Aggarwal](https://github.com/vipuldcoder)
+36. [Ravi_S](https://github.com/ravishankar97)
+37. [Sankalp Chauhan](https://github.com/sankalpchauhan-me)
+38. [Mahadheer Gujju](https://github.com/mahadheer)
+39. [Meghana B Srinath](https://github.com/Meghana359)
+40. [Kshitiz Sharma](https://github.com/itskshitizsh)
+41. [Rhythm Gilhotra](https://github.com/RhythmGilhotra)
+42. [Sumit Roy](https://github.com/sroy8091)
+43. [Gaurav Atul](https://github.com/gtl23)
+44. [Kshitij Suri](https://github.com/kshitijsuri90)
+45. [Vibhor Mittal](https://github.com/vm525)
+46. [Ankush](https://github.com/lifeLessCoder)
+47. [Rahul Pancholi](https://github.com/Rahul2pancholi)
+48. [Anand Paleja](https://github.com/apaleja)
+49. [Harshit Vadhera](https://github.com/Harshitvadhera)
+50. [Yash Soni]( https://github.com/Yashsonisoni )
+51. [Aditya Yadav](https://github.com/yaditya20)
+52. [Hemanshu Varma](https://github.com/HemanshuVarma)
+53. [Gaurav Kumar](https://github.com/lucifer0987)
+54. [Deepanshu Prajapati](https://github.com/dipanshurazp2)
+28. [Praful Nayak](https://github.com/prafulnayak)
