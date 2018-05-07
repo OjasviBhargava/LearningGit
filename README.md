@@ -91,3 +91,4 @@ You need to add your name in the list below as the format shown.
 69. [Ajay Mourya](https://github.com/ajaymourya1234)
 70. [Anirudh Jwala](https://github.com/anirudh-jwala)
 71. [Nikhil Kumar] (https://github.com/99at8)
+72. [Ranajeet Kumar Barik](https://github.com/ranajeet2205)
