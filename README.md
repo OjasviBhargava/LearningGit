@@ -96,3 +96,4 @@ You need to add your name in the list below as the format shown.
 73. [Ritika Neema](https://github.com/ritika-neema)
 74. [Anshul gupta](https://github.com/Anshul1507)
 75. [Sourav Das](https://github.com/adventuroussrv)
+76. [Rohit Yadav](https://github.com/rohit-yadav)
