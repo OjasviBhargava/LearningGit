@@ -92,3 +92,4 @@ You need to add your name in the list below as the format shown.
 70. [Anirudh Jwala](https://github.com/anirudh-jwala)
 71. [Nikhil Kumar] (https://github.com/99at8)
 72. [Ranajeet Kumar Barik](https://github.com/ranajeet2205)
+73. [Ritika Neema](https://github.com/ritika-neema)
