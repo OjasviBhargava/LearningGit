@@ -29,6 +29,7 @@ You need to add your name in the list below as the format shown.
 7. [Darshit Suratwala](https://github.com/DSdatsme)
 8. [Ritik Khare](https://github.com/RitikKhare)
 9. [Ikram Mohammad](https://github.com/Ikramkhan786)
+
 10. [Aakarsh Baiju](https://github.com/LegacyCoder)
 11. [Shivanshu Srivastava](https://github.com/FLYINGKRIPTO)
 12. [Mounica Thota](https://github.com/Thotamounika)
@@ -90,4 +91,8 @@ You need to add your name in the list below as the format shown.
 68. [Shubham Srivastava](https://github.com/Shubham6059)
 69. [Ajay Mourya](https://github.com/ajaymourya1234)
 70. [Anirudh Jwala](https://github.com/anirudh-jwala)
-71. [Sourav Das](https://github.com/adventuroussrv)
+71. [Nikhil Kumar] (https://github.com/99at8)
+72. [Ranajeet Kumar Barik](https://github.com/ranajeet2205)
+73. [Ritika Neema](https://github.com/ritika-neema)
+74. [Anshul gupta](https://github.com/Anshul1507)
+75. [Sourav Das](https://github.com/adventuroussrv)
