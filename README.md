@@ -91,7 +91,7 @@ You need to add your name in the list below as the format shown.
 68. [Shubham Srivastava](https://github.com/Shubham6059)
 69. [Ajay Mourya](https://github.com/ajaymourya1234)
 70. [Anirudh Jwala](https://github.com/anirudh-jwala)
-71. [Nikhil Kumar] (https://github.com/99at8)
+71. [Nikhil Kumar](https://github.com/99at8)
 72. [Ranajeet Kumar Barik](https://github.com/ranajeet2205)
 73. [Ritika Neema](https://github.com/ritika-neema)
 74. [Anshul gupta](https://github.com/Anshul1507)
