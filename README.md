@@ -15,7 +15,7 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 
 ## What changes to make in README.md
 You need to add your name in the list below as the format shown.
-1. [your name] ( your github profile link )
+1. [Your Name] ( GitHub Link)
 
 ## Successful PR by :
 
@@ -98,3 +98,4 @@ You need to add your name in the list below as the format shown.
 75. [Sourav Das](https://github.com/adventuroussrv)
 76. [Rohit Yadav](https://github.com/rohit-yadav)
 77. [Sonu Tiwari](https://github.com/sonutiwari)
+78.[Tarsbir Singh](https://github.com/tarsbirsingh)
