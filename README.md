@@ -15,7 +15,7 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 
 ## What changes to make in README.md
 You need to add your name in the list below as the format shown.
-1. [your name] ( your github profile link )
+1. [Your Name] (GitHub Link)
 
 ## Successful PR by :
 
@@ -29,7 +29,6 @@ You need to add your name in the list below as the format shown.
 7. [Darshit Suratwala](https://github.com/DSdatsme)
 8. [Ritik Khare](https://github.com/RitikKhare)
 9. [Ikram Mohammad](https://github.com/Ikramkhan786)
-
 10. [Aakarsh Baiju](https://github.com/LegacyCoder)
 11. [Shivanshu Srivastava](https://github.com/FLYINGKRIPTO)
 12. [Mounica Thota](https://github.com/Thotamounika)
@@ -98,5 +97,6 @@ You need to add your name in the list below as the format shown.
 75. [Sourav Das](https://github.com/adventuroussrv)
 76. [Rohit Yadav](https://github.com/rohit-yadav)
 77. [Sonu Tiwari](https://github.com/sonutiwari)
-78. [Shubham Agrawal] ( https://github.com/shubhagrawal24)
-
+78. [Tarsbir Singh](https://github.com/tarsbirsingh)
+79. [Neema Patel](https://github.com/patelneema)
+80. [Shubham Agrawal](https://github.com/shubhagrawal24)
