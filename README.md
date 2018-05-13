@@ -15,7 +15,7 @@ Interested in learning Git? Well you've come to the right place! "Learn Git" is 
 
 ## What changes to make in README.md
 You need to add your name in the list below as the format shown.
-1. [your name] ( your github profile link )
+1. [Your Name] (GitHub Link)
 
 ## Successful PR by :
 
@@ -29,7 +29,6 @@ You need to add your name in the list below as the format shown.
 7. [Darshit Suratwala](https://github.com/DSdatsme)
 8. [Ritik Khare](https://github.com/RitikKhare)
 9. [Ikram Mohammad](https://github.com/Ikramkhan786)
-
 10. [Aakarsh Baiju](https://github.com/LegacyCoder)
 11. [Shivanshu Srivastava](https://github.com/FLYINGKRIPTO)
 12. [Mounica Thota](https://github.com/Thotamounika)
@@ -91,11 +90,21 @@ You need to add your name in the list below as the format shown.
 68. [Shubham Srivastava](https://github.com/Shubham6059)
 69. [Ajay Mourya](https://github.com/ajaymourya1234)
 70. [Anirudh Jwala](https://github.com/anirudh-jwala)
-71. [Nikhil Kumar] (https://github.com/99at8)
+71. [Nikhil Kumar](https://github.com/99at8)
 72. [Ranajeet Kumar Barik](https://github.com/ranajeet2205)
 73. [Ritika Neema](https://github.com/ritika-neema)
 74. [Anshul gupta](https://github.com/Anshul1507)
 75. [Sourav Das](https://github.com/adventuroussrv)
 76. [Rohit Yadav](https://github.com/rohit-yadav)
-76. [Dhairya Upadhyay](https://github.com/dhairya02)
+77. [Sonu Tiwari](https://github.com/sonutiwari)
+78. [Tarsbir Singh](https://github.com/tarsbirsingh)
+79. [Neema Patel](https://github.com/patelneema)
+80. [Shubham Agrawal](https://github.com/shubhagrawal24)
+81. [Mohd. Faisal](https://github.com/modfa)
+82. [Rohit V](https://github.com/rohitvivek)
+83. [Uppala Ranjitha](https://github.com/Uppala-Ranjitha)
+84. [Deepak Kumar](https://github.com/deepakkumarroy)
+85. [Aniruddh Kotte](https://github.com/aniruddhkotte)
+86. [Darshan Mehta](https://github.com/darshan1712)
+87. [Dhairya Upadhyay](https://github.com/dhairya02)
 
