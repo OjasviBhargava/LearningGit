@@ -110,4 +110,3 @@ You need to add your name in the list below as the format shown.
 88. [Anirudh Kaushik](https://github.com/happyAyppah)
 89. [Mohan Cm](https://github.com/mohancm)
 90. [Aditya Anand](https://github.com/imadianand)
-91. [Rajat Sharma](https://github.com/rajats1998)
