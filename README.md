@@ -20,7 +20,7 @@ You need to add your name in the list below as the format shown.
 ## Successful PR by :
 
 
-1. [Kartik Shandilya](https://github.com/kkdroidgit) 
+1. [Kartik Shandilya](https://github.com/kkdroidgit)
 2. [Tirth Patel](https://github.com/piedcipher)
 3. [Suhanshu Patel](https://github.com/Suhanshu123)
 4. [Vaishnavi Janardhan](https://github.com/vaishnavi-janardhan)
@@ -110,10 +110,10 @@ You need to add your name in the list below as the format shown.
 88. [Anirudh Kaushik](https://github.com/happyAyppah)
 89. [Mohan Cm](https://github.com/mohancm)
 90. [Aditya Anand](https://github.com/imadianand)
-91. [Rajat Sharma](https://github.com/rajats1998)
+91. [Rajat Sharma](https://github.com/imrajat7)
 92. [Aishwarya](https://github.com/aish20)
 93. [Sukhbeer](https://github.com/sukhbeer)
-94. [robotjelly](https://github.com/robotjellyzone) 
+94. [robotjelly](https://github.com/robotjellyzone)
 94. [Gaurav Kumar Sha](https://github.com/shagaurav)
 95. [Rohit Bhargava](https://github.com/RB-93)
 96. [Varun Pilakavil](https://github.com/vpilakavil)
