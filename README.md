@@ -139,4 +139,5 @@ You need to add your name in the list below as the format shown.
 116. [Manglesh Saurabh](https://github.com/Manglesh123)
 117. [Lakshit Kohli](https://github.com/Lakshitk)
 118. [Ryan M](https://github.com/hyp3rflux)
-119. [Andra Strachinaru] (https://github.com/andrapetronela)
+119. [Andra Strachinaru](https://github.com/andrapetronela)
+120. [Rhythm Pangotra](https://github.com/rpangotra)
