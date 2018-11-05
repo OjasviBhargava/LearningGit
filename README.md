@@ -148,3 +148,4 @@ You need to add your name in the list below as the format shown.
 125. [Katherine Lee](https://github.com/ksklee)
 126. [Apoorva Tiwari](https://github.com/ApoorvaTiwari)
 127. [Kayla Clements](https://github.com/kaykay1424)
+128. [Ekjot Singh](https://github.com/wisetreewildfi)
