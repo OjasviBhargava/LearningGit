@@ -143,3 +143,4 @@ You need to add your name in the list below as the format shown.
 120. [Rhythm Pangotra](https://github.com/rpangotra)
 121. [Ritik Gupta](https://github.com/rg3456)
 122. [Siddhant Manglik](http://github.com/vaish-456)
+123. [Kunal Wadhwa](https://github.com/kunwad)
