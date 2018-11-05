@@ -127,3 +127,4 @@ You need to add your name in the list below as the format shown.
 104. [Kavta042](https://github.com/Kavya042)
 105. [PN chandramohan](https://github.com/iamcm1401)
 106. [Simon](https://github.com/SMG999)
+107. [Moh. Wahyu S. Putra](https://github.com/waysp)
