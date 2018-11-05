@@ -130,3 +130,4 @@ You need to add your name in the list below as the format shown.
 107. [Moh. Wahyu S. Putra](https://github.com/waysp)
 108. [Jaspreet Singh](https://github.com/jaspreet-singh37349)
 109. [HoaNP](https://github.com/HoaNP)
+110. [Manassés Silva](https://github.com/manassesss)
