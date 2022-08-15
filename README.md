@@ -18,7 +18,7 @@ You need to add your name in the list below as the format shown.
 1. [Your Name] (GitHub Link)
 
 ## Successful PR by :
-
+s
 
 1. [Kartik Shandilya](https://github.com/kkdroidgit)
 2. [Tirth Patel](https://github.com/piedcipher)
